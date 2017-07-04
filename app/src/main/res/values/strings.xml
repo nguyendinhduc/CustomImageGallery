@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomGalleryImage</string>
+    <string name="Do_you_want_grant_permision_store">Do you want grant store permission</string>
+</resources>
